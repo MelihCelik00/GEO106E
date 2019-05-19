@@ -1,0 +1,15 @@
+     2.11           OBSERVATION DATA    M (MIXED)           RINEX VERSION / TYPE
+ISTA                                                        MARKER NAME
+Automatic           GOW-ITU                                 OBSERVER / AGENCY
+1831540             LEICA GR25          4.11/6.523          REC # / TYPE / VERS
+726339              LEIAR25.R4          LEIT                ANT # / TYPE
+4208830.7150        2334850.1024        4171267.0925        APPROX POSITION XYZ
+        0.0610             0             0                  ANTENNA: DELTA H/E/N
+      5    C1    C2    C5    D1    D2                       # / TYPES OF OBSERV
+  2018     1     1     0     0         0000     GPS         TIME OF FIRST OBS
+                                                            END OF HEADER
+ 18  1  1  0  0       0000  0 04G05G12G16G18
+  23175395.278    23175391.966                       -1588.541       -1237.824
+  25184245.266    25184241.704                       -3671.360       -2860.800
+  24457753.303                                        3480.617        2712.167
+  23781995.064                                        3233.986        2519.991

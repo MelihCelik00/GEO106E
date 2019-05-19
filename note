@@ -1,0 +1,3 @@
+(grad/200) = (radian/pi) = (Derece/180)
+
+radius_519 = angle_degree_519*(math.pi / 180)
