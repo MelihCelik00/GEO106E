@@ -1,4 +1,4 @@
-# Melih Safa Çelik 010180519
+# Author: Melih Safa Çelik, School ID:010180519. Term project in Fundamentals Of Programming in Python Course in ITU. First 2 functions were correct but third function wasn't. 
 import math
 import numpy as np
 
@@ -67,7 +67,7 @@ def ell2xyz(latitude_519,longitude_519,ellHeight_519):
 
     return x_519,y_519,z_519
 
-def degree2dms(decimal_519):
+def degree2dms(decimal_519): #It works but don't take negative values into account and that question doesn't get mark as homework.
     """
         This function converts decimal degree to degree minute seconds
         Parameters:
